@@ -15,5 +15,6 @@ public class MainActivity extends Activity {
         view.setText("nihao");
         //adddsdd
         //haoba
+        //yaode
     }
 }
