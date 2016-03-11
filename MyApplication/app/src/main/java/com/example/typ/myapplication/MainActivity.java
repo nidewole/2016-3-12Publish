@@ -13,5 +13,6 @@ public class MainActivity extends Activity {
 
         TextView view = new TextView(this);
         view.setText("nihao");
+        //adddsdd
     }
 }
